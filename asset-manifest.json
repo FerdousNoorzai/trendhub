@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/trendhub/static/css/main.f855e6bc.css",
-    "main.js": "/trendhub/static/js/main.0c33b51b.js",
+    "main.css": "/trendhub/static/css/main.bf03c2cd.css",
+    "main.js": "/trendhub/static/js/main.730c77d6.js",
     "static/js/592.a3c8aa24.chunk.js": "/trendhub/static/js/592.a3c8aa24.chunk.js",
     "index.html": "/trendhub/index.html",
-    "main.f855e6bc.css.map": "/trendhub/static/css/main.f855e6bc.css.map",
-    "main.0c33b51b.js.map": "/trendhub/static/js/main.0c33b51b.js.map",
+    "main.bf03c2cd.css.map": "/trendhub/static/css/main.bf03c2cd.css.map",
+    "main.730c77d6.js.map": "/trendhub/static/js/main.730c77d6.js.map",
     "592.a3c8aa24.chunk.js.map": "/trendhub/static/js/592.a3c8aa24.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.0c33b51b.js"
+    "static/css/main.bf03c2cd.css",
+    "static/js/main.730c77d6.js"
   ]
 }
